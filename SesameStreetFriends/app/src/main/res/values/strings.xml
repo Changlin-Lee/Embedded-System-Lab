@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sesame Street Friends</string>
+    <string name="action_settings">Settings</string>
+    <string name="nameElmo">Elmo</string>
+    <string name="nameCookieMonster">CookieMonster</string>
+    <string name="nameJulia">Julia</string>
+    <string name="nameGoldfish">Goldfish</string>
+    <string name="nameBigBird">BigBird</string>
+    <string name="nameMrNoodle">Mr Noodle</string>
+</resources>

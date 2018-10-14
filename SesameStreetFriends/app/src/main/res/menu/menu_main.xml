@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="lab_1.course.ece.sesamestreetfriends.MainActivity">
+    <item
+        android:id="@+id/id_menu_bigbird"
+        android:orderInCategory="100"
+        android:title="@string/nameBigBird"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/id_menu_cookiemonster"
+        android:orderInCategory="100"
+        android:title="@string/nameCookieMonster"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/id_menu_elmo"
+        android:orderInCategory="100"
+        android:title="@string/nameElmo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/id_menu_goldfish"
+        android:orderInCategory="100"
+        android:title="@string/nameGoldfish"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/id_menu_julia"
+        android:orderInCategory="100"
+        android:title="@string/nameJulia"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/id_menu_mrnoodle"
+        android:orderInCategory="100"
+        android:title="@string/nameMrNoodle"
+        app:showAsAction="never" />
+</menu>

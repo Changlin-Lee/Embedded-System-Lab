@@ -1,0 +1,4 @@
+what is the difference between RelativeLayout and LinearLayout?
+
+A: The LinearLayout we used in the Lab1 is linear. All components of it are stacked one by one. So a vertical list has only one component per line, no matter how wide they are, and the horizontal list has only one row. Its components must be aligned. RelativeLayout is a layout that displays components in relative positions. The position of each component can be specified in some direction(left, right, bottom, center etc. ) relative to the sibling element or father element. 
+
