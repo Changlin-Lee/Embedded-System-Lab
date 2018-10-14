@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id = "@+id/menuPtrBall"
+        android:title = "Ball"
+        android:orderInCategory="1"/>
+    <item android:orderInCategory="1"
+        android:title="White"
+        android:id="@+id/menuPtrWhite"/>
+
+</menu>

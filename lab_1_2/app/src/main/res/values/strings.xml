@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab_1_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="bird">bigbird</string>
+    <string name="monster">cookiemonster</string>
+    <string name="mo">elmo</string>
+    <string name="fish">goldfish</string>
+    <string name="lia">julia</string>
+    <string name="noodle">mrnoodle</string>
+</resources>

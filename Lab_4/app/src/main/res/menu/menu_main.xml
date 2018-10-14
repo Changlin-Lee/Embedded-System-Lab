@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.changlinlee.lab_4.MainActivity">
+    <item
+        android:id="@+id/menuTakePicture"
+        android:title="Take Picture"
+        />
+    <item
+        android:id="@+id/menuRecordVideo"
+        android:title="Record Viddeo"
+        />
+    <item
+        android:id="@+id/menuStopRecord"
+        android:title="Stop Record"
+        />
+</menu>
